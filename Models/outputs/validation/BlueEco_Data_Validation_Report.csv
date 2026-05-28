@@ -1,0 +1,6 @@
+Variable,temporal_coverage_pct,temporal_missing_count,temporal_status,nan_total_rows,nan_global_pct,nan_status,global_min,global_max,mean_est,below_pmin_pct,above_pmax_pct,iqr_outlier_pct_raw,bound_status,iqr_status_raw,ts_mean,ts_std,ts_min,ts_max,ts_iqr_outlier_count,ts_zscore_outlier_count,ts_consensus_months,ts_status,overall_verdict,recommended_action
+SST,100.0,0,PASS,1448077004,0.0,PASS,-1.8,40.0,17.4723,0.0,0.0,0.0,PASS,PASS,27.1506,1.6763,24.3872,30.4867,0,0,,PASS,PASS,No action required.
+PAR,100.0,0,PASS,1511423358,0.0,PASS,0.0,70.65,35.0535,0.0,0.0,0.0,PASS,PASS,46.0018,8.2091,28.7481,59.473,0,0,,PASS,PASS,No action required.
+Kd_490,100.0,0,PASS,1261552209,0.0,PASS,0.0166,6.4,0.0579,0.0,0.0,7.65,PASS,FLAG,0.0414,0.0038,0.0345,0.0571,4,3,"2009-02, 2022-04, 2025-02",WARN,FLAG,"Extreme values are near-shore turbidity artefacts. Clip to [0, 6.0] per MODIS guidance."
+CHL,100.0,0,PASS,1261557482,0.0,PASS,0.001,86.3784,0.3892,0.0,0.0,11.48,PASS,FLAG,0.2342,0.0463,0.1569,0.437,2,2,"2022-04, 2025-02",WARN,FLAG,Values >100 mg/m³ are HAB extremes or algorithm failures. Winsorize at P99.5.
+POC,100.0,0,PASS,1261112905,0.0,PASS,7.7998,12953.4004,75.9425,0.0,0.1008,8.85,WARN,FLAG,59.8235,6.0514,48.985,78.6038,1,1,2009-02,WARN,FLAG,Values >2000 mg/m³ are almost certainly retrieval failures. Winsorize at P99 or clip to 2000 before aggregation.
