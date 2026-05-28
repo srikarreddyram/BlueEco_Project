@@ -42,9 +42,6 @@ The system employs a rule-based anomaly detection layer to identify the **Bleach
 
 BlueEco translates these complex predictions into actionable visual intelligence. Below are the key outputs from our analysis of the **Great Barrier Reef**:
 
-### The Final Ecosystem Forecast
-![Great Barrier Reef Forecast](plots/Forecast_Great_Barrier_Reef_Australia.png)
-
 ### Stage 2 Final Research Highlights
 
 Our advanced visualizations map out the biological thresholds of the ecosystem.
