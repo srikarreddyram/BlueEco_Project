@@ -49,44 +49,29 @@ BlueEco translates these complex predictions into actionable visual intelligence
 
 Our advanced visualizations map out the biological thresholds of the ecosystem.
 
-<details>
-<summary><b>1. Productivity & Energy Balance</b></summary>
+#### 1. Productivity & Energy Balance
 
 **Chlorophyll Forecast:** Tracking the decline in primary productivity as temperatures rise.
-<br>
-<img src="outputs/Stage%202%20final/1_Chlorophyll_Forecast.png" alt="Chlorophyll Forecast" />
+![Chlorophyll Forecast](outputs/Stage%202%20final/1_Chlorophyll_Forecast.png)
 
 **Energy Balance:** The divergence between metabolic demand and available energy.
-<br>
-<img src="outputs/Stage%202%20final/1_Energy_Balance.png" alt="Energy Balance" />
+![Energy Balance](outputs/Stage%202%20final/1_Energy_Balance.png)
 
-</details>
-
-<details>
-<summary><b>2. Ecosystem Trajectory</b></summary>
+#### 2. Ecosystem Trajectory
 
 **Metabolic Gap:** Quantifying the energy deficit triggering ecosystem collapse.
-<br>
-<img src="outputs/Stage%202%20final/2_Metabolic_Gap.png" alt="Metabolic Gap" />
+![Metabolic Gap](outputs/Stage%202%20final/2_Metabolic_Gap.png)
 
 **Productivity Timeline:** The long-term projection of ecosystem viability.
-<br>
-<img src="outputs/Stage%202%20final/2_Productivity_Timeline.png" alt="Productivity Timeline" />
+![Productivity Timeline](outputs/Stage%202%20final/2_Productivity_Timeline.png)
 
-</details>
-
-<details>
-<summary><b>3. Tipping Points & Stress Analysis</b></summary>
+#### 3. Tipping Points & Stress Analysis
 
 **Quadrant Matrix:** Phase space evolution showing the ecosystem's trajectory toward instability.
-<br>
-<img src="outputs/Stage%202%20final/3_Quadrant_Matrix.png" alt="Quadrant Matrix" />
+![Quadrant Matrix](outputs/Stage%202%20final/3_Quadrant_Matrix.png)
 
 **Stress Matrix:** Highlighting the nonlinear collapse boundaries driven by thermal and nutritional stress.
-<br>
-<img src="outputs/Stage%202%20final/3_Stress_Matrix.png" alt="Stress Matrix" />
-
-</details>
+![Stress Matrix](outputs/Stage%202%20final/3_Stress_Matrix.png)
 
 ---
 
