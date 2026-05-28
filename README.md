@@ -42,6 +42,14 @@ The system employs a rule-based anomaly detection layer to identify the **Bleach
 
 BlueEco translates these complex predictions into actionable visual intelligence. Below are the key outputs from our analysis of the **Great Barrier Reef**:
 
+### Stage 1 Final Research Highlights
+
+**SST Prediction:** Future Sea Surface Temperature trajectory driven by climate forcing.
+![SST Forecast](outputs/Stage%201%20final/Stage1%20final%20visuals/1_SST_Forecast.png)
+
+**PAR Prediction:** Photosynthetically Active Radiation forecasting.
+![PAR Forecast](outputs/Stage%201%20final/Stage1%20final%20visuals/2_PAR_Forecast.png)
+
 ### Stage 2 Final Research Highlights
 
 Our advanced visualizations map out the biological thresholds of the ecosystem.
